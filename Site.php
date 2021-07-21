@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, inicial-sacale=1.0">
-<title>Links do fiqueligado</title>
+<title>CADASTRO</title>
 <link rel="stylesheet" href="css/links.css">
 <link rel="icon" href="imagens/fav icon.png">
 </head>
@@ -22,7 +22,7 @@
 <input type="submit" value="cadastrar"/>
 </div>
 <footer>
-Página desenvolvida por YANN BRENNO DA COSTA RAMOS - 215720  conteúdo sob direitos da net/claro  © 2021
+Página desenvolvida por YANN BRENNO DA COSTA RAMOS   © 2021
 </footer>
 
 
